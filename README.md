@@ -1,8 +1,6 @@
-Got it 🙂 You want a **straightforward, proper README.md** file — no code blocks everywhere, no extra noise, just clean text + proper markdown structure (like a real GitHub project).
+This idea struck in my mind when I faced difficulty getting an **accurate frame** for editing, so I decided to build one.  
+Here it is as a **minimum viable product (MVP)**.
 
-Here’s the **final polished README.md** you can copy-paste directly ⬇️
-
----
 
 # 🎬 Video Frame Extractor
 
@@ -63,5 +61,4 @@ video-frame-extractor/
 ```
 
 ---
-
-Would you like me to also **generate the exact requirements.txt** for your repo (with the correct versions of `yt-dlp`, `scenedetect`, `ffmpeg-python` etc.) so it’s fully ready?
+ ##Feel free to use and cntribute. 
