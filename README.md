@@ -61,4 +61,16 @@ video-frame-extractor/
 ```
 
 ---
- ##  Feel free to use and cntribute. 
+
+🎨 Example Output
+```
+* Extracted frames in /frames
+* Scene-based cutting ensures no missed details
+* Works even on age-restricted content with cookies.txt
+```
+🤝 Contributing
+
+Pull requests are welcome!
+For major changes, please open an issue first to discuss what you’d like to add.
+ 
+##  Feel free to contribute. 
